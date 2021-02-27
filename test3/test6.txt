@@ -1,1 +1,2 @@
-Welcome to test6 file..
+Welcome to test6 file.
+This test6 file
