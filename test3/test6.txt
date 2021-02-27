@@ -1,3 +1,4 @@
 Welcome to test6 file.
 This test6 file
 line3
+line4
