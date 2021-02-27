@@ -1,5 +1,1 @@
 Welcome to test6 file
-This is test6 file.
-This line added after checkout
-4th line added
-5th line added
